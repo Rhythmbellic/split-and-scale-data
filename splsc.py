@@ -22,3 +22,4 @@ x_test=scale.fit_transform(x_test)
 x_test
 y_test=scale.fit_transform(y_test)
 y_test
+#Now are data is processed and ready to be modelled
